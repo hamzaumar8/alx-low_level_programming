@@ -4,7 +4,9 @@
 
 /**
  * main: Assigns a random number int N everytime
+ *
  * it excuses and print it
+ *
  * Return: Always 0 (success)
  */
 int main(void)
@@ -21,7 +23,7 @@ int main(void)
 	}
 	else if (n == 0)
 	{
-		printf("%dis zero\n", n);
+		printf("%d is zero\n", n);
 	}
 	else if (n < 0)
 	{
