@@ -9,7 +9,7 @@ int main(void)
 {
 	char wds;
 
-	for (wrds = 'z'; wds >= 'a'; wds--)
+	for (wds = 'z'; wds >= 'a'; wds--)
 	{
 		putchar(wds);
 	}
